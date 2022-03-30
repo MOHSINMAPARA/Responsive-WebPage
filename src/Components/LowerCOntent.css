@@ -1,0 +1,23 @@
+.LowerContent{
+    display: flex;      
+    justify-content: center;
+    background-color:rgb(245, 245, 245);
+    /* color: antiquewhite; */
+    /* width: 70%; */
+    /* margin: 1rem; */
+    padding: 1rem;
+   
+}
+.icon{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    /* align-items: center; */
+    
+}
+.service{
+    display: flex;
+    justify-content: center;
+    font-family: 'Oswald', sans-serif !important ;
+}
